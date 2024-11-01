@@ -1,6 +1,6 @@
 # Microservices Architecture with Kubernetes on AWS
 
-This project demonstrates deploying a microservices-based architecture on AWS using Kubernetes (EKS), Terraform, Auto Scaling, and IAM. This guide includes a complete setup, from configuring AWS infrastructure to provisioning a Kubernetes cluster, setting up worker nodes, and enabling scaling and monitoring.
+In this project, I was able to demonstrate deploying a microservices-based architecture on AWS using Kubernetes (EKS), Terraform, Auto Scaling, and IAM. This guide includes a complete setup, from configuring AWS infrastructure to provisioning a Kubernetes cluster, setting up worker nodes, and enabling scaling and monitoring.
 
 ### Project Overview
 
